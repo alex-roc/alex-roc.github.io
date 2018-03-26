@@ -1,0 +1,30 @@
+---
+# Provide front matter so Jekyll processes this file as SASS.
+---
+
+// Put your custom CSS here if you want to override the defaults.
+// Here are some common customizations for colors
+
+// Customize the background color
+
+body {
+  background-color: white;
+}
+
+// Customize the menubar color
+.ui.menu {
+  background: white;
+}
+
+// Customize the home page icon colors
+.icon-color {
+  // color: silver;
+}
+
+.ui.card{
+	 box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+}
+
+.ui.four.cards{
+  	
+}

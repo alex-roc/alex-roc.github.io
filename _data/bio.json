@@ -1,0 +1,348 @@
+{
+  "basics": {
+    "name": "Alex Ojeda Copa",
+    "label": "Sociólogo digital",
+    "picture": "/images/yo.jpeg",
+    "email": "alex.r.ojeda@gmail.com",
+    "website": "https://alex-roc.github.io",
+    "summary": "En lo académico apuesto por la integración entre las teorías, modelos y métodos de las ciencias sociales y la informática. En lo político creo en en el poder distribuido de las redes sociales, la autonomía de la sociedad civil y en la filosofía de la apertura y la colaboración.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Cochabamba",
+      "countryCode": "BO",
+      "region": "Bolivia"
+    },
+    "profiles": [
+      {
+        "network": "linkedin",
+        "username": "alexroc",
+        "url": "http://linkedin.com/in/alexroc"
+      },
+      { "network": "amilia",
+        "username": "alexroc",
+        "url": "https://umss.academia.edu/alexroc"
+      },
+      { "network": "registered",
+        "username": "Alex Ojeda Copa",
+        "url": "https://www.researchgate.net/profile/Alex_Ojeda_Copa"
+      },
+      {
+        "network": "github",
+        "username": "alex-roc",
+        "url": "http://github.com/alex-roc"
+      },
+      { "network": "graduation cap",
+        "username": "Alex Ojeda Copa",
+        "url": "https://scholar.google.es/citations?user=6w9b6-UAAAAJ&hl=es"
+      },  
+      {
+        "network": "twitter",
+        "username": "alexrocz",
+        "url": "http://twitter.com/alexrocz"
+      },
+      { "network": "instagram",
+        "username": "alexrocz",
+        "url": "https://www.instagram.com/alexrocz/"
+      },
+      {
+        "network": "telegram",
+        "username": "alexrox",
+        "url": "https://t.me/alexrox"
+      },
+    ],
+    "profiles2": [
+      { "network": "wordpress",
+        "username": "sociodig",
+        "url": "https://sociodig.wordpress.com/"
+      },
+      { "network": "facebook",
+        "username": "sociología digital",
+        "url": "https://www.facebook.com/sociologiadigital/"
+      },
+      { "network": "blogger",
+        "username": "losocialenbolivia",
+        "url": "https://losocialenbolivia.blogspot.com/"
+      },
+      {
+        "network": "medium",
+        "username": "@alexrocz",
+        "url": "https://medium.com/@alexrocz"
+      },
+      { "network": "tumblr",
+        "username": "alexrocz",
+        "url": "https://www.tumblr.com/blog/alexrocz"
+      },
+      {
+        "network": "slideshare",
+        "username": "alexroc",
+        "url": "https://es.slideshare.net/alexroc"
+      },
+      { "network": "wikipedia w",
+        "username": "Alexroc",
+        "url": "https://es.wikipedia.org/wiki/Usuario:Alexroc"
+      },
+      { "network": "quora",
+        "username": "Alex Ojeda",
+        "url": "https://es.quora.com/profile/Alex-R-Ojeda"
+      },
+      { "network": "map marker alternate",
+        "username": "alexrox",
+        "url": "https://www.openstreetmap.org/user/alexrox"
+      },
+      { "network": "map outline",
+        "username": "alexrox",
+        "url": "https://www.mapillary.com/app/user/alexrox"
+      },
+      { "network": "youtube",
+        "username": "Alex R. Ojeda",
+        "url": "https://www.youtube.com/channel/UC3MiX5WXfYpyQt-EZb6pGEA"
+      },
+      { "network": "soundcloud",
+        "username": "Alex Ojeda",
+        "url": "https://soundcloud.com/alex-r-ojeda"
+      }
+    ]
+  },
+  "interests": [
+    {
+      "name": "sociología digital",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "sociología política",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "métodos digitales",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "movimientos sociales en red",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "culturas juveniles",
+      "keywords": [
+      ]
+    },
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "level": "",
+      "keywords": [
+        "R",
+        "Python",
+        "Java",
+        "Javascript"
+      ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "level": "",
+      "keywords": [
+        "MacOS",
+        "Debian",
+        "Git/GitHub"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Escuela de Posgrado, UMSS",
+      "area": "Investigación en Ciencias Sociales",
+      "studyType": "Maestría",
+      "endDate": "2018",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "Duke University on Coursera",
+      "area": "Reasoning, Data Analysis, and Writing",
+      "studyType": "Specialization",
+      "website": "https://www.coursera.org/account/accomplishments/specialization/S6G4EHCPQQZL",
+      "endDate": "2014",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "Facultad de Ciencias Sociales, UMSS",
+      "area": "Sociología",
+      "studyType": "Licenciatura",
+      "endDate": "2014",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "Facultad de Ciencias Jurídicas y Políticas, UMSS",
+      "area": "Ciencias Jurídicas y Políticas",
+      "studyType": "Licenciatura",
+      "endDate": "2010",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "work": [
+    {
+      "company": "Instituto de Investigaciones en Ciencias Sociales (INCISO) - FACSO UMSS",
+      "position": "Investigador adscrito",
+      "website": "",
+      "startDate": "2015-07-01",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "company": "Centro de Estudios de la Realidad Económica y Social (CERES)",
+      "position": "Auxiliar de investigación",
+      "website": "http://www.ceresbolivia.org/",
+      "startDate": "2017-08-01",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "company": "Facultad de Ciencias Sociales - UMSS",
+      "position": "Docente de materias electivas",
+      "website": "",
+      "startDate": "2015-03-01",
+      "endDate": "Present",
+      "summary": "Varias materias relacionadas a tecnologías digitales y sociedad",
+      "highlights": [
+        "Movimientos sociales en red, II/2018",
+        "Herramientas digitales de investigacións social, I/2017",
+        "Sociología de Internet, I y II 2016",
+        "Análisis de Redes Sociales, I/2015"
+      ]
+    },
+    {
+      "company": "Unidad de Tecnologías de Información - FACSO UMSS",
+      "position": "Auxiliar",
+      "website": "",
+      "startDate": "2013-07-01",
+      "endDate": "2014-05-30",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "company": "Defensoría del Pueblo, Cochabamba",
+      "position": "Promotor de Derechos Humanos",
+      "startDate": "2010-02-01",
+      "endDate": "2010-12-31",
+      "summary": "",
+      "highlights": []
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "No a la Tala de Arboles en Cochabamba",
+      "website": "http://noalatala.org/",
+      "position": "Forestador",
+      "startDate": "2017-02-01",
+      "endDate": "Presente",
+      "summary": "",
+      "highlights": [
+      ]
+    },
+    {
+      "organization": "Masa Crítica Cochabamba",
+      "website": "https://www.facebook.com/MasaCritica.Cochabamba/",
+      "position": "Pedaleador",
+      "startDate": "2017-02-01",
+      "endDate": "Presente",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "organization": "HackLab Cochabamba",
+      "website": "http://hacklabcbba.org/",
+      "position": "",
+      "startDate": "2017-02-01",
+      "endDate": "Presente",
+      "summary": "",
+      "highlights": []
+    }
+    ],
+"publications": [
+      {
+      "name": "La nueva ciudadanía (en red) en Bolivia",
+      "type": "journal",
+      "author": "Ojeda, Alex R.",
+      "publisher": "Cuarto Intermedio 117",
+      "releaseDate": "2017",
+      "website": "https://www.academia.edu/35470165/La_nueva_ciudadan%C3%ADa_en_red_en_Bolivia",
+      "summary": ""
+    },
+     {
+      "name": "Movimientos sociales e Internet: de la política centralizada a la política distribuida",
+      "type": "journal",
+      "author": "Ojeda, Alex R.",
+      "publisher": "Punto Cero 35",
+      "releaseDate": "2017",
+      "website": "https://www.academia.edu/36232225/Movimientos_sociales_e_Internet_de_la_pol%C3%ADtica_centralizada_a_la_pol%C3%ADtica_distribuida",
+      "summary": ""
+    },
+     {
+      "name": "Sectas y legiones en Facebook: Comunidad virtual, cibercultura e identidad en la juventud digital",
+      "type": "journal",
+      "author": "Ojeda, Alex R.",
+      "publisher": "Decursos 36",
+      "releaseDate": "2017",
+      "website": "https://www.academia.edu/36068188/Sectas_y_legiones_en_facebook_Comunidad_virtual_cibercultura_e_identidad_en_la_juventud_digital",
+      "summary": ""
+    },
+     {
+      "name": "Internet: de las metáforas y las caracterizaciones disciplinarias al modelo tecnosociológico",
+      "type": "journal",
+      "author": "Ojeda, Alex R.",
+      "publisher": "Decursos 31",
+      "releaseDate": "2016",
+      "website": "https://www.academia.edu/28550643/Internet_de_las_met%C3%A1foras_y_las_caracterizaciones_disciplinarias_al_modelo_tecnosociol%C3%B3gico",
+      "summary": ""
+    },
+    {
+      "name": "Las redes sociales: de medios de comunicación a espacios sociales",
+      "type": "journal",
+      "author": "Ojeda, Alex R.",
+      "publisher": "Traspatios 4",
+      "releaseDate": "2016",
+      "website": "https://www.academia.edu/26935587/Las_redes_sociales_de_medios_de_comunicaci%C3%B3n_a_espacios_sociales",
+      "summary": ""
+    },
+    {
+      "name": "Cohesión e interacción en grupos de facebook",
+      "author": "Ojeda, Alex R.",
+      "type": "journal",
+      "publisher": "Punto Cero 32",
+      "releaseDate": "2016",
+      "website": "https://www.academia.edu/12738195/Cohesi%C3%B3n_e_interacci%C3%B3n_en_grupos_de_Facebook",
+      "summary": ""
+    }
+  ],
+
+  "awards": [
+    {
+      "title": "Becario de investigación social",
+      "date": "2016-Presente",
+      "awarder": "ASDI/DICyT",
+      "summary": "Dentro del Programa Universitario de Investigación en Ciencias Sociales (PUICS) de la UMSS"
+    },
+    {
+      "title": "Estudiante destacado. Mejor promedio de egreso",
+      "date": "2014",
+      "awarder": "Decanatura y Dierección Académica de la FACSO",
+      "summary": ""
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request",
+      "reference": ""
+    }
+  ]
+}
