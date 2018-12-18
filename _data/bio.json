@@ -188,12 +188,21 @@
     }
   ],
   "work": [
+      {
+      "company": "Laboratorio de Redes y Tecnologías Sociales",
+      "position": "Coordinador de participación ciudadana",
+      "website": "http://labtecnosocial.org/",
+      "startDate": "2018-07-01",
+      "endDate": "Presente",
+      "summary": "",
+      "highlights": []
+    },
     {
       "company": "Instituto de Investigaciones en Ciencias Sociales (INCISO) - FACSO UMSS",
       "position": "Investigador adscrito",
-      "website": "",
-      "startDate": "2015-07-01",
-      "endDate": "Present",
+      "website": "https://www.facebook.com/inciso.facso/",
+      "startDate": "2016-07-01",
+      "endDate": "2018-06-30",
       "summary": "",
       "highlights": []
     },
@@ -209,7 +218,7 @@
     {
       "company": "Facultad de Ciencias Sociales - UMSS",
       "position": "Docente de materias electivas",
-      "website": "",
+      "website": "http://www.facso.umss.edu.bo/",
       "startDate": "2015-03-01",
       "endDate": "Present",
       "summary": "Varias materias relacionadas a tecnologías digitales y sociedad",
@@ -266,9 +275,27 @@
       "endDate": "Presente",
       "summary": "",
       "highlights": []
+    },
+      {
+      "organization": "Club de Ciencia de Datos",
+      "website": "https://www.facebook.com/ccd.bolivia.bo/",
+      "position": "Datero",
+      "startDate": "2018-09-01",
+      "endDate": "Presente",
+      "summary": "",
+      "highlights": []
     }
     ],
 "publications": [
+      {
+      "name": "La vida política del meme. Interacciones digitales en Facebook en una coyuntura crítica",
+      "type": "journal",
+      "author": "Zegada, María Teresa; Guardia, Marcelo; Ojeda, Alex R.",
+      "publisher": "CERES / UCB / Plural",
+      "releaseDate": "2018",
+      "website": "https://www.academia.edu/37950387/La_vida_pol%C3%ADtica_del_meme._Interacciones_digitales_en_Facebook_en_una_coyuntura_cr%C3%ADtica",
+      "summary": ""
+      },
       {
       "name": "La emergencia de los movimientos ciudadanos en red en Bolivia (2009-2017)",
       "type": "journal",
