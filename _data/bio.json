@@ -5,7 +5,7 @@
     "picture": "/images/yo.jpeg",
     "email": "alex.r.ojeda@gmail.com",
     "website": "https://alex-roc.github.io",
-    "summary": "Licenciado en sociología con estudios en ingeniería informática; magister en investigación en ciencias sociales. En lo académico apuesto por la integración entre las teorías, modelos y métodos de las ciencias sociales y la informática. En lo político creo en en el poder distribuido de las redes sociales, la autonomía de la sociedad civil y en la filosofía de la apertura y la colaboración.",
+    "summary": "Licenciado en Sociología con estudios en ingeniería informática; Magister en Investigación en Ciencias Sociales, Doctorante en Estudios Sociales. Actualmente investigando sobre 'Proceso de digitalización en Bolivia (1980-2020'. Coordinador principal del Lab TecnoSocial. En lo académico apuesto por la integración entre las teorías, modelos y métodos de las ciencias sociales y la informática. En lo político creo en la autonomía de la sociedad civil, el poder distribuido de las redes sociales, y en la filosofía de la apertura y la colaboración.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -189,11 +189,20 @@
   ],
   "work": [
       {
-      "company": "Laboratorio de Redes y Tecnologías Sociales",
-      "position": "Coordinador de participación ciudadana",
+      "company": "Laboratorio de Tecnologías Sociales",
+      "position": "Coordinador principal",
       "website": "http://labtecnosocial.org/",
-      "startDate": "2018-07-01",
+      "startDate": "2017-03-01",
       "endDate": "Presente",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "company": "Centro de Estudios Superiores Universitarios (CESU-UMSS)",
+      "position": "Investigador asociado",
+      "website": "http://www.cesu.umss.edu.bo/",
+      "startDate": "2018-10-01",
+      "endDate": "2020-01-01",
       "summary": "",
       "highlights": []
     },
@@ -208,7 +217,7 @@
     },
     {
       "company": "Centro de Estudios de la Realidad Económica y Social (CERES)",
-      "position": "Auxiliar de investigación",
+      "position": "Auxiliar de investigación e investigador asociado",
       "website": "http://www.ceresbolivia.org/",
       "startDate": "2017-08-01",
       "endDate": "Present",
@@ -220,7 +229,7 @@
       "position": "Docente de materias electivas",
       "website": "http://www.facso.umss.edu.bo/",
       "startDate": "2015-03-01",
-      "endDate": "Present",
+      "endDate": "2018-12-31",
       "summary": "Varias materias relacionadas a tecnologías digitales y sociedad",
       "highlights": [
         "Movimientos sociales en red, II/2018",
@@ -253,7 +262,7 @@
       "website": "http://noalatala.org/",
       "position": "Forestador",
       "startDate": "2017-02-01",
-      "endDate": "Presente",
+      "endDate": "2018-12-31",
       "summary": "",
       "highlights": [
       ]
@@ -262,7 +271,7 @@
       "organization": "Masa Crítica Cochabamba",
       "website": "https://www.facebook.com/MasaCritica.Cochabamba/",
       "position": "Pedaleador",
-      "startDate": "2017-02-01",
+      "startDate": "2018-12-31",
       "endDate": "Presente",
       "summary": "",
       "highlights": []
@@ -272,7 +281,7 @@
       "website": "http://hacklabcbba.org/",
       "position": "Aprendiz de hacktivista",
       "startDate": "2016-10-01",
-      "endDate": "Presente",
+      "endDate": "2018-12-31",
       "summary": "",
       "highlights": []
     },
@@ -287,19 +296,73 @@
     }
     ],
 "publications": [
+  {
+    "name": "Mapeo de actores de sociedad civil relacionados a datos abiertos en Bolivia",
+    "type": "journal",
+    "author": "Ojeda, Alex; Calizaya, Esteban",
+    "publisher": "CERES / UCB / Plural",
+    "releaseDate": "2019",
+    "website": "https://www.academia.edu/37950387/La_vida_pol%C3%ADtica_del_meme._Interacciones_digitales_en_Facebook_en_una_coyuntura_cr%C3%ADtica",
+    "summary": ""
+    },
       {
       "name": "La vida política del meme. Interacciones digitales en Facebook en una coyuntura crítica",
       "type": "journal",
-      "author": "Zegada, María Teresa; Guardia, Marcelo; Ojeda, Alex R.",
+      "author": "Zegada, María Teresa; Guardia, Marcelo; Ojeda, Alex",
       "publisher": "CERES / UCB / Plural",
       "releaseDate": "2018",
       "website": "https://www.academia.edu/37950387/La_vida_pol%C3%ADtica_del_meme._Interacciones_digitales_en_Facebook_en_una_coyuntura_cr%C3%ADtica",
       "summary": ""
       },
       {
+        "name": "Introduccióna al Análisis de Redes Sociales",
+        "type": "journal",
+        "author": "Ojeda Alex",
+        "publisher": "Mente Maestra",
+        "releaseDate": "2015",
+        "website": "",
+        "summary": ""
+        },
+      {
+        "name": "Convergencia entre desinformación política y social en el conflicto electoral de 2019 en Bolivia",
+        "type": "journal",
+        "author": "Ojeda, Alex; Peredo, Valeria",
+        "publisher": "Temas Sociales 46",
+        "releaseDate": "2020",
+        "website": "https://www.academia.edu/43375277/Convergencia_entre_desinformaci%C3%B3n_pol%C3%ADtica_y_social_en_el_conflicto_electoral_de_2019_en_Bolivia",
+        "summary": ""
+        },
+      {
+        "name": "Cámaras de eco y desinformación: Efectos amplificadores de las redes digitales en la polarización social de 2019",
+        "type": "journal",
+        "author": "Ojeda, Alex",
+        "publisher": "Crisis y cambio político en Bolivia. Octubre y noviembre de 2019: La democracia en encrucijada",
+        "releaseDate": "2020",
+        "website": "https://www.academia.edu/43375297/C%C3%A1maras_de_eco_y_desinformaci%C3%B3n_Efectos_amplificadores_de_las_redes_digitales_en_la_polarizaci%C3%B3n_social_de_2019",
+        "summary": ""
+        },
+      {
+        "name": "Las plataformas ciudadanas del 21F: Caracterización social, comunicativa e ideológica",
+        "type": "journal",
+        "author": "Ojeda, Alex",
+        "publisher": "Foro Regional No. 11",
+        "releaseDate": "2018",
+        "website": "https://www.academia.edu/40403446/Las_plataformas_ciudadanas_del_21F_Caracterizaci%C3%B3n_social_comunicativa_e_ideol%C3%B3gica",
+        "summary": ""
+        },
+      {
+        "name": "Microdinámicas de opinión alrededor del hashtag #RayoEvolizador en Twitter",
+        "type": "journal",
+        "author": "Ojeda, Alex; Peredo, Valeria",
+        "publisher": "Punto Cero 37",
+        "releaseDate": "2018",
+        "website": "https://www.academia.edu/38477948/Microdin%C3%A1micas_de_opini%C3%B3n_alrededor_del_hashtag_RayoEvolizador_en_Twitter",
+        "summary": ""
+        },
+      {
       "name": "La emergencia de los movimientos ciudadanos en red en Bolivia (2009-2017)",
       "type": "journal",
-      "author": "Ojeda, Alex R.",
+      "author": "Ojeda, Alex",
       "publisher": "Traspatios 5",
       "releaseDate": "2018",
       "website": "https://www.academia.edu/37714122/La_emergencia_de_los_movimientos_ciudadanos_en_red_en_Bolivia_2009-2017_",
@@ -308,7 +371,7 @@
       {
       "name": "La organización de los movimientos en red en el Estado Plurinacional",
       "type": "journal",
-      "author": "Ojeda, Alex R.",
+      "author": "Ojeda, Alex",
       "publisher": "Temas Sociales 42",
       "releaseDate": "2018",
       "website": "https://www.academia.edu/37293804/La_organizaci%C3%B3n_de_los_movimientos_en_red_en_el_Estado_Plurinacional",
@@ -317,16 +380,25 @@
       {
       "name": "Rizoma y Gaia: Participación política de mujeres en movimientos ecologistas en red",
       "type": "journal",
-      "author": "Ojeda, Alex R.",
+      "author": "Ojeda, Alex",
       "publisher": "Mulier Sapiens 9",
       "releaseDate": "2018",
       "website": "https://www.academia.edu/36943980/Rizoma_y_Gaia_Participaci%C3%B3n_pol%C3%ADtica_de_mujeres_en_movimientos_ecologistas_en_red",
       "summary": ""
       },
       {
+        "name": "Estructuralismo en ciencias sociales",
+        "type": "journal",
+        "author": "Ojeda, Alex",
+        "publisher": "Consciencias Sociales 18",
+        "releaseDate": "2018",
+        "website": "https://www.academia.edu/38349204/Estructuralismo_en_ciencias_sociales",
+        "summary": ""
+        },
+      {
       "name": "Análisis de sentimiento e interacción de @evoespueblo",
       "type": "journal",
-      "author": "Ojeda, Alex R.",
+      "author": "Ojeda, Alex",
       "publisher": "Revista Boliviana de Ciencia Política 2",
       "releaseDate": "2018",
       "website": "https://www.academia.edu/36376875/Análisis_de_sentimiento_e_interacción_de_at_evoespueblo",
@@ -335,7 +407,7 @@
       {
       "name": "La nueva ciudadanía (en red) en Bolivia",
       "type": "journal",
-      "author": "Ojeda, Alex R.",
+      "author": "Ojeda, Alex",
       "publisher": "Cuarto Intermedio 117",
       "releaseDate": "2017",
       "website": "https://www.academia.edu/35470165/La_nueva_ciudadan%C3%ADa_en_red_en_Bolivia",
@@ -344,7 +416,7 @@
      {
       "name": "Movimientos sociales e Internet: de la política centralizada a la política distribuida",
       "type": "journal",
-      "author": "Ojeda, Alex R.",
+      "author": "Ojeda, Alex",
       "publisher": "Punto Cero 35",
       "releaseDate": "2017",
       "website": "https://www.academia.edu/36232225/Movimientos_sociales_e_Internet_de_la_pol%C3%ADtica_centralizada_a_la_pol%C3%ADtica_distribuida",
@@ -353,7 +425,7 @@
      {
       "name": "Sectas y legiones en Facebook: Comunidad virtual, cibercultura e identidad en la juventud digital",
       "type": "journal",
-      "author": "Ojeda, Alex R.",
+      "author": "Ojeda, Alex",
       "publisher": "Decursos 36",
       "releaseDate": "2017",
       "website": "https://www.academia.edu/36068188/Sectas_y_legiones_en_facebook_Comunidad_virtual_cibercultura_e_identidad_en_la_juventud_digital",
@@ -362,7 +434,7 @@
      {
       "name": "Internet: de las metáforas y las caracterizaciones disciplinarias al modelo tecnosociológico",
       "type": "journal",
-      "author": "Ojeda, Alex R.",
+      "author": "Ojeda, Alex",
       "publisher": "Decursos 31",
       "releaseDate": "2016",
       "website": "https://www.academia.edu/28550643/Internet_de_las_met%C3%A1foras_y_las_caracterizaciones_disciplinarias_al_modelo_tecnosociol%C3%B3gico",
@@ -371,7 +443,7 @@
     {
       "name": "Las redes sociales: de medios de comunicación a espacios sociales",
       "type": "journal",
-      "author": "Ojeda, Alex R.",
+      "author": "Ojeda, Alex",
       "publisher": "Traspatios 4",
       "releaseDate": "2016",
       "website": "https://www.academia.edu/26935587/Las_redes_sociales_de_medios_de_comunicaci%C3%B3n_a_espacios_sociales",
@@ -379,7 +451,7 @@
     },
     {
       "name": "Cohesión e interacción en grupos de facebook",
-      "author": "Ojeda, Alex R.",
+      "author": "Ojeda, Alex",
       "type": "journal",
       "publisher": "Punto Cero 32",
       "releaseDate": "2016",
